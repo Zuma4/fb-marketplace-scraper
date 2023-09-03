@@ -2,7 +2,7 @@
 
 ## Description
 
-FB Marketplace Scraper Is A Script To Search And Record Available Ads In A Specific Category In Facebook Marketplace
+FB Marketplace Scraper Is An Old Script I Made To Search And Record Available Ads In A Specific Category In Facebook Marketplace
 
 ## How It Works 
 
