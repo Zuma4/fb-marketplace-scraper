@@ -10,6 +10,7 @@ The Script Crawls In A Specific Category Page In Marketplace And Records Each Ad
 Such As :
 
 Titles, Availability, Price, Description, When Posted And Location
+
 All Of Which Gets Saved Into A Comprehinsive CSV File
 
 ## Used Tools
