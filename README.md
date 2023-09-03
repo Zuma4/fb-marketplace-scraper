@@ -23,7 +23,7 @@ Python
 
 ### Used Libs And Packs
 
-Selenium, json, pandas, os, time,
+bs4, time, selenium, re, pandas
 
 ## How To Use 
 
