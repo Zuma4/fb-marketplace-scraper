@@ -35,7 +35,7 @@ Selenium, json, pandas, os, time,
 
 3 - To Install The Suitable WebDriver, Please Check https://www.javatpoint.com/selenium-webdriver-installation
 
-4 - Open The Script Set Your Email And Password 
+4 - Open The Script And Set Your Email And Password (User Options Section)
 
 ### User Options
 
